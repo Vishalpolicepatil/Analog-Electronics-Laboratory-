@@ -17,7 +17,7 @@ The ripple factoe of HWR is approximately equal to 1.21 i.e Ac component of the 
 ![alt text](https://github.com/Vishalpolicepatil/Analog-Electronics-Laboratory-/blob/main/derivation-of-rms-value-of-half-wave-rectifier.png?raw=true) 
 ## 2. Full Wave Rectifier (FWR) 
 As name defines FWR rectifies the full input AC wave to Dc Signal \
-There are two types of FWR as follows : \
+There are two types of FWR as follows : 
 1. Center Tapped FWR
 2. Bridge wave rectifier
 
@@ -36,5 +36,5 @@ The ripple factor in FWR equals to 0.482 i.e Ac component of the signal is 48.2%
 ![alt text](https://github.com/Vishalpolicepatil/Analog-Electronics-Laboratory-/blob/main/vrms1.webp?raw=true) 
 ### Bridge Wave Rectifier 
 The loop of the 4 diodes are made in each half 2 of 4 diodes are in forward bais and 2 of 4 in reverse bias and load resistor is connected between the loop of the diode. \
-![alt text](https://github.com/Vishalpolicepatil/Analog-Electronics-Laboratory-/blob/main/Full-Wave-Bridge-Rectifier-Circuit.jpg?raw=true) \ 
+![alt text](https://github.com/Vishalpolicepatil/Analog-Electronics-Laboratory-/blob/main/Full-Wave-Bridge-Rectifier-Circuit.jpg?raw=true)  \ 
 Formulas are same as in the center tapped. 
